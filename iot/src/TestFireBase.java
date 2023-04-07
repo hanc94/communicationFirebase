@@ -12,7 +12,7 @@ public class TestFireBase {
         String project="changua";
 
         //Secret
-        String secret="iaGwhq1kLmIm2fwKQIOBw8Px3JT00LSIRoxQlBJN";
+        String secret="xxxx";
 
         //New Firebase object
         Firebase firebase=new Firebase(project,secret);
